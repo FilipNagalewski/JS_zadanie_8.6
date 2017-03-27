@@ -18,7 +18,7 @@ function getTriangleArea(a, h) {
   }
 }
 
-getTriangleArea(10,6);
+getTriangleArea(10, 6);
 
 var triangle1Area = getTriangleArea(8, 5);
 var triangle2Area = getTriangleArea(4, 'f');
